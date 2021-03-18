@@ -75,15 +75,37 @@ https://en.wikipedia.org/wiki/ISO_3166-2:AU.
              }
         }
    },
-   "url": "https://app.ticketmaster.com/discovery/v2/events.json?&countryCode=AU&size=200&apikey=M3LyhpAl8jvIjH1k9t7VdKojV4WDyYAA
+   "url": "https://app.ticketmaster.com/discovery/v2/events.json?&countryCode=AU&size=200
+           &apikey=M3LyhpAl8jvIjH1k9t7VdKojV4WDyYAA
            &classificationName=Music,sport&stateCode=qld,wa,&source=ticketmaster
            &localStartEndDateTime=2021-03-18T23:33:16,2021-06-18T08:00:25"
 }
 ```
 ## Diagrammi UML
 <p>
-  <img src = "">
-    <h6> idea iniziale dei casi d'uso
+  <img src = "https://github.com/CordoneMaurizio/ProgettoMarzo/blob/main/OceaniaTicket%20Use%20Case%20Diagram.png">
+    <h6> diagramma dei casi d'uso
+    </h6>
+  <img>
+ </p>
+ <p>
+  <img src = "https://github.com/CordoneMaurizio/ProgettoMarzo/blob/main/OceaniaTicket%20Use%20Case%20Diagram.png">
+    <h6> diagramma dei casi d'uso
+    </h6>
+  <img>
+ </p><p>
+  <img src = "https://github.com/CordoneMaurizio/ProgettoMarzo/blob/main/OceaniaTicket%20Use%20Case%20Diagram.png">
+    <h6> diagramma dei casi d'uso
+    </h6>
+  <img>
+ </p><p>
+  <img src = "https://github.com/CordoneMaurizio/ProgettoMarzo/blob/main/OceaniaTicket%20Use%20Case%20Diagram.png">
+    <h6> diagramma dei casi d'uso
+    </h6>
+  <img>
+ </p><p>
+  <img src = "https://github.com/CordoneMaurizio/ProgettoMarzo/blob/main/OceaniaTicket%20Use%20Case%20Diagram.png">
+    <h6> diagramma dei casi d'uso
     </h6>
   <img>
  </p>

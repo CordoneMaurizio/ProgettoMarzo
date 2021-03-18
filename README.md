@@ -90,22 +90,29 @@ https://en.wikipedia.org/wiki/ISO_3166-2:AU.
  </p>
  <p>
   <img src = "https://github.com/CordoneMaurizio/ProgettoMarzo/blob/main/Oceania%20Ticket%20Class%20Diagram.png">
-    <h6> diagramma dei casi d'uso
+    <h6> diagramma delle classi
     </h6>
   <img>
  </p><p>
   <img src = "https://github.com/CordoneMaurizio/ProgettoMarzo/blob/main/API%20call.png">
-    <h6> diagramma dei casi d'uso
+    <h6> sequence diagram della chiamata a API esterna 
     </h6>
   <img>
  </p><p>
   <img src = "https://github.com/CordoneMaurizio/ProgettoMarzo/blob/main/_dati.png">
-    <h6> diagramma dei casi d'uso
+    <h6> sequence diagram rotta /dati
     </h6>
   <img>
  </p><p>
   <img src = "https://github.com/CordoneMaurizio/ProgettoMarzo/blob/main/_stat.png">
-    <h6> diagramma dei casi d'uso
+    <h6> sequence diagram rotta /stat
     </h6>
   <img>
  </p>
+ 
+ ## Software utilizzati
+
+- Ambiente di sviluppo - Eclipse
+- Framework - Springboot
+- Software di creazione UML - UML designer , UML sequence diagram online tool
+- ambiente di test - Postman

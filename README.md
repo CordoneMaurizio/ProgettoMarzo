@@ -1,5 +1,7 @@
 # OceaniaTicket
 Progetto Programmazione a Oggetti - Marzo 2021
+## Autore
+Cordone Maurizio
 ## Descrizione
 -API Reference: https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/#search-events-v2
 il programma ha l'obiettivo di recuperare e filtrare dati riguardanti eventi di vario genere per infine visualizzare le informazioni essenziali e statistiche.

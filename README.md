@@ -27,7 +27,7 @@ tutte le rotte sono do tipo **POST** e condividono un formato unico del body:
 }
 ```
 *separare il contenuto dei campi con una virgola permette di filtrare dati secondo entrambi*
-chiavi e campi del body vanno scritti in *minuscolo*.
+- chiavi e campi del body vanno scritti in *minuscolo*.
 #### campi disponibili
 ##### generi:
 aggiungendo '-' davanti ad uno dei filtri di questo campo permette di escludere gli eventi classificati secondo quel genere
